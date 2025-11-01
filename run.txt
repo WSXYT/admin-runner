@@ -1,0 +1,6 @@
+# List of programs to run with administrator privileges. One per line.
+# You can include arguments after the executable path.
+# Examples:
+# C:\Windows\System32\notepad.exe
+# "C:\Program Files\VideoLAN\VLC\vlc.exe" --intf qt
+C:\Users\ws675\Downloads\C30智能教学.exe
