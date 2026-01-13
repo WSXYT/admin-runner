@@ -228,7 +228,7 @@ def is_user_admin() -> bool:
     except Exception:
         return False
 
-
+# 提权
 def relaunch_as_admin():
     """Relaunch current program with admin privileges via ShellExecuteExW(runas).
 
